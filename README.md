@@ -54,14 +54,11 @@
 <div
 align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=excyuef&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=excyuef&theme=dracula&hide_border=false)
-
+  ![](https://github-readme-stats.vercel.app/api?username=excyuef&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=excyuef&theme=dracula&hide_border=false)
+  <img src="https://github-profile-trophy.vercel.app?username=excyuef&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=excyuef&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=excyuef&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ###
   <img height="60"/>
