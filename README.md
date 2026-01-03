@@ -46,7 +46,7 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
 </div>
 
-<img width="12" height="50"/>
+<img height="50"/>
 
 
 <h3 align="left">🔥My Stats :</h3>
@@ -64,7 +64,7 @@ align="center">
 ![](https://github-profile-trophy.vercel.app/?username=excyuef&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ###
-  <img width="12" height="60"/>
+  <img height="60"/>
 <div
 align="center">
   <h3>
@@ -73,7 +73,7 @@ align="center">
 
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kkjtfj63rmnqgd7ea2qsjwp4zm)
 </div>
-  <img width="12" />
+  <img width="12"/>
 
 ###
 
